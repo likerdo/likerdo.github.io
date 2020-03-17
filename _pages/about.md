@@ -19,17 +19,16 @@ toc: true
 ---
 
 ## 기술
-* **java
-* **mybatis
-* **oracle
-* **MySQL
-* **C#
-* **.Net
-* **Spring
-* **SpringBoot
-* **JPA
-* **Git
+* java
+* mybatis
+* oracle
+* MySQL
+* C#
+* .Net
+* Spring
+* SpringBoot
+* JPA
+* Git
 
 ## 기록
-
-* **20.03.17 블로그 개설**
+* **20.03.17 블로그 구축 (fork by minimal mistake)**
