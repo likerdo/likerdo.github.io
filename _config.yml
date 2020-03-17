@@ -15,12 +15,12 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "devlog"
+locale                   : "ko-KR"
+title                    : "신입같은 경력에 변화를 devlog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "likerdo"
-description              : "신입같은 경력에 변화를"
+description              : "공부를 시작합니다. 안되잖아?"
 url                      : "https://likerdo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "likerdo/likerdo.github.io"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "likerdo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/yui.jpg"
   bio              : "그냥 **옛날** 사람."
   location         : "서울"
   email            :
@@ -123,13 +123,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/lozicod"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/lozicod"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/likerdo"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/likerdo"
 
 
 # Reading Files
